@@ -10,7 +10,6 @@ A Glass Box AI architecture designed to eliminate hallucinations and enforce dat
 
 The Architecture
 ![System Architecture Diagram](architecture.png)
-(Refer to the full architecture diagram above for the Red-to-Green data flow)
 
 The Business Problem
 In high-stakes sales environments, generic AI wrappers (using Black Box frameworks) pose two critical risks:
